@@ -1,0 +1,31 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_div{
+    float: none;
+    background: salmon;
+    padding: 10px;
+    border-radius: 20px;
+    color: aqua;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_div_2{
+    font-size: 18px;
+}
+
+.Result_para_tag{
+    box-shadow: 5px 5px 5px gray;
+    font-size: 15px;
+}
+
+canvas{
+    border: 5px solid wheat;
+    border-radius: 20;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 140px;
+}
